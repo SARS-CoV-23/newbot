@@ -6,14 +6,14 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "🤖💭Eren Yeager💦💨",
+  "BOTNAME": "TOXIC(+_+)",
   "PREFIX": "-",
   "OPERATOR": [
-    "",
-    ""
+    "100063504903833",
+    "100007956914855"
   ],
   "ADMINBOT": [
-    "100063504903833",
+    "100007956914855",
     ""
   ],
   "OWNER": ["100000959749712"], 
